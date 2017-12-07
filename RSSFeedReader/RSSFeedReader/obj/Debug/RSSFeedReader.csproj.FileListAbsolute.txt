@@ -1,0 +1,6 @@
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\bin\Debug\RSSFeedReader.exe.config
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\bin\Debug\RSSFeedReader.exe
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\bin\Debug\RSSFeedReader.pdb
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\obj\Debug\RSSFeedReader.csprojResolveAssemblyReference.cache
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\obj\Debug\RSSFeedReader.exe
+D:\LocalProjects\RSSFeedReader\RSSFeedReader\obj\Debug\RSSFeedReader.pdb
