@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalDatabaseFileExample", "LocalDatabaseFileExample\LocalDatabaseFileExample.csproj", "{5A8B2709-0887-4320-B23A-FFB4479FB8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseFileProject", "DataBaseFileProject\DataBaseFileProject.csproj", "{EDE279DB-9CE3-4774-A679-54D8C719DD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8B2709-0887-4320-B23A-FFB4479FB8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8B2709-0887-4320-B23A-FFB4479FB8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8B2709-0887-4320-B23A-FFB4479FB8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8B2709-0887-4320-B23A-FFB4479FB8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE279DB-9CE3-4774-A679-54D8C719DD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE279DB-9CE3-4774-A679-54D8C719DD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE279DB-9CE3-4774-A679-54D8C719DD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE279DB-9CE3-4774-A679-54D8C719DD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
